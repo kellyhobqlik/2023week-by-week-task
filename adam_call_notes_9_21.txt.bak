@@ -1,3 +1,58 @@
 
 
 test commit
+
+Adam call 9/21
+
+Khoros data "QLIK_ANALYTICS"."CUSTOMER_SUCCESS"."KHOROS_QLIK_PROD_BULK" has event data but needs to be cleaned up for dups
+
+'Bare Metal Metrics' If you use like it is the counts will be off
+
+SearchUnify data is also available to look at internal article data/metadata. q4 expanding the reach
+
+24q1 goal is for all user data to be aligned in search unify (qlik.help, comm etc)
+
+Ideas to explore:
+
+1. utterance to solution set
+
+2. agent assist in search unify
+
+3. Can I do case based customized skill routing? 
+
+
+
+
+
+Ultimately, we do not have enough resources to cover all support cases and we only spending 3-8% of time contributing to KB
+
+What could we actually do with all this data? 
+
+
+
+a. skills matrix for engineers based on case history, comment history on comms data 
+
+
+b. what content generates the most gain ? 
+
+c. what content generates the most searches? 
+
+
+d. Escalations: we need better data and better process for handling 
+
+Could there be a form to fill out 
+
+How can we avoid the PowerSchool call
+
+
+e. How to improve overall TSE performance 
+
+content sharing, standard practice, 
+
+search on call transcipts as a data source
+
+How do we replicate a Shashi, Swathi, Jeff cole 
+
+
+
+
