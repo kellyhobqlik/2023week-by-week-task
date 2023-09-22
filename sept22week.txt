@@ -74,3 +74,20 @@ Hau presents his app
 
 drill into comm data
 
+Next week:
+
+
+ for Hau- 
+ 
+ 1. Continue to work on v2 test set, performance evaluation, documentation of leaky features
+ 2. Along with this task, outline how predictions be generated over a 24 hour period and displayed in visual form (Sense app)
+ 3. 9/26/23 : Sentiment meeting with Akmel Tuesday, will define next steps there
+ 4. Walk through a dummy support case next week 
+ 
+ 
+ for Akmel 
+ 
+ 1. For CSAT, understand if call_flag is a possible field which can be compared for df_surv vs df_no_surv
+	if similar to rest of analysis, we wrap up and not pursue this topic as the data no good/biased 
+	
+ 2. Sentiment discussion on Tuesday: think about ideas for how to display in an app with case data, possibly incorporate AutoML
