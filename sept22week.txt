@@ -82,7 +82,7 @@ Next week:
  1. Continue to work on v2 test set, performance evaluation, documentation of leaky features
  2. Along with this task, outline how predictions be generated over a 24 hour period and displayed in visual form (Sense app)
  3. 9/26/23 : Sentiment meeting with Akmel Tuesday, will define next steps there
- 4. Walk through a dummy support case next week 
+ 4. Walk through a dummy support case next week (Kelly will set this up)
  
  
  for Akmel 
@@ -91,3 +91,34 @@ Next week:
 	if similar to rest of analysis, we wrap up and not pursue this topic as the data no good/biased 
 	
  2. Sentiment discussion on Tuesday: think about ideas for how to display in an app with case data, possibly incorporate AutoML
+ 
+
+
+also 
+
+ Replacing the self-signed certificate on Windows article 
+ 
+ 
+Hey Rajit, 
+
+Thank you for the update and information.  For 112879, we can see the request for logs and dumps and have an internal ticket opened with our SME team.
+
+Going to follow up internally to make sure the background from this case is included. 
+
+We will be in touch with next steps.
+
+Best,
+Kelly 
+
+
+Can you confirm this is the same task and server as case 112879.
+
+From the logs on this case we see:
+
+task: CHUB_NG_LG_CORE_SF_DL
+server: usaepwvrx005.na.corp.mckesson.com
+
+
+Task: CHUB_NG_LG_CORE_SF_DL
+Server Name: QR_PRD_CHUB_001
+Host: usaepwvrx005.na.corp.mckesson.com When (QEM time): 09/20/2023 14:14:28 GMT-07:00
