@@ -17,3 +17,14 @@ Topics:
 need to ensure to keep him enagaged and relevant in automl/ai efforts at qlik
 
 4-6 hours a week tops 
+
+bring back his screen shots
+
+automl is a small part of overall staige
+
+6. Overall internal CSAT score? 
+is there a combo of rule based, sentiment and maybe modeling that generates a score on daily basis for overall health of a case? 
+using lots of the metrics from the escalation, what if we generated a case score which is an enhancement of 'unhealthy/at risk/healthy' backlog generalizations
+
+7. Live chat analysis
+
